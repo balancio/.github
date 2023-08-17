@@ -1,6 +1,6 @@
 # Balancio
 
-Balancio is a Web application for tracking your income and expenses
+Balancio is a Web application for tracking your income, expenses and current balance.
 
 ![image](https://github.com/balancio/.github/assets/62907395/57a17b04-f5c9-4a67-81f2-84dddedd9ebd)
 
